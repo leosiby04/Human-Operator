@@ -12,14 +12,7 @@ Human Operator is a wearable human-augmentation system that maps voice + first-p
 
 This project won MIT Hard Mode 2026 (Learn Track).
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/2b088e69-b861-4d76-951c-7a69cf5c6d5c" width="32%" alt="AI makes hand wave" />
-  <img src="https://github.com/user-attachments/assets/366eef6b-59c4-4773-bbd3-4310cee81fad" width="32%" alt="AI makes hand play piano" />
-  <img src="https://github.com/user-attachments/assets/483c7c5d-858b-47a7-a765-e2fee5f27b1a" width="32%" alt="AI makes hand do OK sign"/>
-  <p><sub>Left to right: AI stimulates wrist muscle to wave • AI stimulates fingers in sequence to play melody • AI stimulates fingers to form an OK sign</sub></p>
-</div>
 
-[Watch Full Video Demo](https://youtu.be/fCLxENGs7CY?si=noS9cT161CwEFh5Q)
 
 ## What This Repository Contains
 
