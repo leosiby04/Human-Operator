@@ -17,13 +17,6 @@ This project won MIT Hard Mode 2026 (Learn Track).
 - `firmware/human_operator_ems/human_operator_ems.ino`: Arduino relay controller firmware
 - `run_hardware.sh`: Recommended one-command launcher for real relay hardware mode
 
-## Team
-- Peter He - [Portfolio](https://peterhci.com) | [GitHub](https://github.com/molegod) | [LinkedIn](https://www.linkedin.com/in/ph475/)
-- Valdemar Danry - [Portfolio](https://valdemardanry.com) | [GitHub](https://github.com/valleballe) | [LinkedIn](https://www.linkedin.com/in/valdemar-danry)
-- Daniel Kaijzer - [GitHub](https://github.com/danielkaijzer) | [LinkedIn](https://www.linkedin.com/in/danielkaijzer/)
-- Yutong Wu - [GitHub](https://github.com/ichbinHallie0426) | [LinkedIn](https://www.linkedin.com/in/yutong-wu-4b66661b5/)
-- Ashley Neall - [Portfolio](https://aneall.github.io/) | [GitHub](https://github.com/aneall) | [LinkedIn](https://www.linkedin.com/in/ashley-neall/)
-- Sean Hardesty Lewis - [Portfolio](https://seanhardestylewis.com/) | [GitHub](https://github.com/seanhlewis) | [LinkedIn](https://www.linkedin.com/in/seanhardestylewis/)
 
 ## Safety and Responsibility
 
@@ -270,9 +263,7 @@ firmware/human_operator_ems/human_operator_ems.ino
   -> maps symbolic relay targets to physical output pins
 ```
 
-## Acknowledgments
 
-Inspired by work from the [Human Computer Integration Lab](https://lab.plopes.org/) at UChicago:
 
 - [Full-Hand Electro Tactile Feedback without Obstructing Palmar Side of Hand](https://github.com/humancomputerintegration/BOH-Electro-Tactile)
 - [Generative Muscle Stimulation: Providing Users with Physical Assistance by Constraining Multimodal-AI with Embodied Knowledge](https://arxiv.org/pdf/2505.10648)
