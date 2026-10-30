@@ -1,4 +1,5 @@
 
+<img width="929" height="544" alt="image" src="https://github.com/user-attachments/assets/ae140fda-171d-495d-9d7b-58847724f906" />
 
 # Human Operator
 
