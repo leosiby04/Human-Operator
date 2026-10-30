@@ -3,9 +3,7 @@
 
 # Human Operator
 
-Human Operator is a wearable human-augmentation system that maps voice + first-person vision input to relay-routed Electrical Muscle Stimulation (EMS) actions.
-
-This project won MIT Hard Mode 2026 (Learn Track).
+The Human Operator is a wearable neuro-prosthetic system designed to restore intent-driven object manipulation in paralyzed hands.
 
 
 
